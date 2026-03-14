@@ -1,0 +1,7 @@
+qdrant_docker/qdrant_data/
+.env
+pyproject.toml
+uv.lock
+__pycache__/
+.DS_Store
+/qdrant_docker/.DS_Store
